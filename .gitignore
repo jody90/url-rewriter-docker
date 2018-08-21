@@ -1,0 +1,6 @@
+*.log
+code/list/*
+*pem
+*key
+*crt
+*cert
